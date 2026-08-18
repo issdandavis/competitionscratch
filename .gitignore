@@ -140,6 +140,7 @@ research/*.out
 research/*.txt
 .aicomp/
 .codex/
+.orientation/
 
 # Other
 plans/
